@@ -1,0 +1,9 @@
+[package]
+name = "bass-rs"
+version = "0.1.0"
+authors = ["Roy Jacobs <roy.jacobs@gmail.com>"]
+edition = "2018"
+build = "build.rs"
+
+[dependencies]
+libc = "0.2"
